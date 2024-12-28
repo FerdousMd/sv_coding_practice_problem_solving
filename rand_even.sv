@@ -2,7 +2,7 @@
 
 class rand_even;
   
-  randc int even;
+  randc int even; //cyclic random variable
   
   //rand int even;
   
